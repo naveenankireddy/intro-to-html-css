@@ -1,0 +1,22 @@
+.main-container {
+    margin:10px 100px 100px 100px;
+}
+a {
+    text-decoration: none;
+    text-transform: uppercase;    
+}
+h1 {
+    font-size: 35px;
+}
+p {
+    font-size: 18px;
+}
+.grid-home {
+    background-color: cadetblue;
+}
+.grid-about {
+    background-color: cornflowerblue;
+}
+.grid-contact {
+    background-color: darkkhaki;
+}
